@@ -16,7 +16,7 @@ To generate insights that can Guide products improvement, marketing strategies a
 - Findings, Discussion, conclusion and recommendations, as well as Acknowledgement, [click here](https://docs.google.com/document/d/1L_Gj8bce75zk2Q23tdpXSBjETYnaRUYR/edit?usp=drivesdk&ouid=106287249642968225191&rtpof=true&sd=true)
 
 ### For Results
- - I.e Pivot table and charts, [Click here]()
+ - I.e Pivot table and charts, [Click here](https://docs.google.com/document/d/1LcE79bI9HQk3HOozpd_Pa2lIPHYCRZjI/edit?usp=drivesdk&ouid=106287249642968225191&rtpof=true&sd=true)
 
 ### For Products and Customer engagement Dashboard, [Click here]()
 note: Excel 2007 doesn't have the slicer application.
